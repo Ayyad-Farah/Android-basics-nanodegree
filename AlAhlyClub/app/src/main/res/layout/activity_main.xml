@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:src="@drawable/alahly"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Al Ahly Club"
+        android:textSize="25sp"
+        android:fontFamily="sans-serif-light"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Club Of The Century"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-light"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Founded: April 24, 1907"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-light"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Location: Cairo, Egypt"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-light"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Manager: Hossam El-Badry"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-light"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chairman: Mahmoud Taher"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-light"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Leagues: CAF Champions League, Egyptian Premier League"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-light"
+        android:textStyle="bold" />
+</LinearLayout>
