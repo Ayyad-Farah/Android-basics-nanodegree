@@ -6,4 +6,4 @@ Android Basics courses on Udacity
 ### Design and implement a simple app that displays information about a small business, place.
 The app displays information about my favorite club.
 
-<img src="http://i.imgur.com/f8ftzfW.png" width="275"> 
+<img src="http://i.imgur.com/uj13Xpe.png" width="275"> 
