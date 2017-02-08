@@ -12,4 +12,4 @@ The app displays information about my favorite club.
 ### Implement an app to track scores between two teams within a game.
 The app tracks goals and fouls for Arabic classico AlAhly vs Zamalek football match (teams from Egypt). 
 
-<img src="http://i.imgur.com/B3ekpdS.gifv" width="270">
+<img src="http://i.imgur.com/B3ekpdS.gif" width="270">
