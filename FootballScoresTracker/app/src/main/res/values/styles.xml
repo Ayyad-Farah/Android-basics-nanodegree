@@ -6,4 +6,12 @@
         <!-- Background color of buttons in the app -->
         <item name="colorButtonNormal">#FF9800</item>
     </style>
+
+    <style name="CustomButtonStyle" parent="Base.Widget.AppCompat.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/midMargen</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+
 </resources>

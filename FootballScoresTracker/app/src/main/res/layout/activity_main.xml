@@ -41,12 +41,9 @@
                 android:layout_margin="@dimen/bigMargen"
                 android:id="@+id/team_a_goals"/>
             <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/goal"
-                android:layout_gravity="center_horizontal"
-                android:layout_margin="@dimen/midMargen"
-                android:onClick="teamAscore"/>
+                android:onClick="teamAscore"
+                style="@style/CustomButtonStyle"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -57,12 +54,9 @@
                 android:layout_margin="@dimen/bigMargen"
                 android:id="@+id/team_a_fouls" />
             <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/foul"
-                android:layout_gravity="center_horizontal"
-                android:layout_margin="@dimen/midMargen"
-                android:onClick="teamAHasAFoul"/>
+                android:onClick="teamAHasAFoul"
+                style="@style/CustomButtonStyle"/>
         </LinearLayout>
         <View
             android:layout_width="1dp"
@@ -93,12 +87,9 @@
                 android:layout_margin="@dimen/bigMargen"
                 android:id="@+id/team_b_goals"/>
             <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/goal"
-                android:layout_gravity="center_horizontal"
-                android:layout_margin="@dimen/midMargen"
-                android:onClick="teamBscore"/>
+                android:onClick="teamBscore"
+                style="@style/CustomButtonStyle"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -109,12 +100,9 @@
                 android:layout_margin="@dimen/bigMargen"
                 android:id="@+id/team_b_fouls"/>
             <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/foul"
-                android:layout_gravity="center_horizontal"
-                android:layout_margin="@dimen/midMargen"
-                android:onClick="teamBHasAFoul"/>
+                android:onClick="teamBHasAFoul"
+                style="@style/CustomButtonStyle"/>
         </LinearLayout>
     </LinearLayout>
     <Button
