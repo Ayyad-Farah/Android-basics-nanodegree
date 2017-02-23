@@ -17,3 +17,5 @@ The app tracks goals and fouls for Arabic classico AlAhly vs Zamalek football ma
 ## Project 3: [Quiz App(Programming Quiz app)](https://github.com/Ayyad-Shenouda/Android-basics-nanodegree/tree/master/ProgrammingQuizApp)
 ### Design and implement a short quiz app about some topic you are familiar with.
 The app implements a 4-question simple programming quiz. 
+
+<img src="http://i.imgur.com/jVUaElH.gif" width="270">
