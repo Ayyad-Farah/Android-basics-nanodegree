@@ -13,3 +13,7 @@ The app displays information about my favorite club.
 The app tracks goals and fouls for Arabic classico AlAhly vs Zamalek football match (teams from Egypt). 
 
 <img src="http://i.imgur.com/B1JIZGl.gif" width="270">
+
+## Project 3: [Quiz App(Programming Quiz app)](https://github.com/Ayyad-Shenouda/Android-basics-nanodegree/tree/master/ProgrammingQuizApp)
+### Design and implement a short quiz app about some topic you are familiar with.
+The app implements a 4-question simple programming quiz. 
