@@ -30,7 +30,8 @@ public class MainActivity extends AppCompatActivity {
         }
         if(answer.length() == 0)
             return 0;
-        return 1;
+        else
+            return 1;
     }
     /**
      *
@@ -44,7 +45,8 @@ public class MainActivity extends AppCompatActivity {
 
         if(checkBox1.isChecked() && checkBox2.isChecked() && !checkBox3.isChecked() && !checkBox4.isChecked())
             return 1;
-        return 0;
+        else
+            return 0;
     }
 
     /**
@@ -52,13 +54,12 @@ public class MainActivity extends AppCompatActivity {
      * @return 1 if is the answer of question 1 correct 0 otherwise
      */
     private int question3() {
-        RadioButton radioButton1 = (RadioButton) findViewById(R.id.question_3_value_203);
-        RadioButton radioButton2 = (RadioButton) findViewById(R.id.question_3_value_write);
-        RadioButton radioButton3 = (RadioButton) findViewById(R.id.question_3_value_Twenty_one);
+        RadioButton radioButton = (RadioButton) findViewById(R.id.question_3_value_write);
 
-        if(radioButton2.isChecked())
+        if(radioButton.isChecked())
             return 1;
-        return 0;
+        else
+            return 0;
     }
 
     /**
@@ -72,7 +73,8 @@ public class MainActivity extends AppCompatActivity {
         CheckBox checkBox4 = (CheckBox) findViewById(R.id.question_4_value_String);
         if(checkBox1.isChecked() && checkBox2.isChecked() && checkBox3.isChecked() && checkBox4.isChecked())
             return 1;
-        return 0;
+        else
+            return 0;
     }
 
     /**

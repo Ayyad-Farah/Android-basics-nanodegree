@@ -1,0 +1,17 @@
+<resources>
+    <!-- for main activites we have -->
+    <string name="app_name">Tarab</string>
+    <string name="category_album">Albums</string>
+    <string name="category_song">All Songs</string>
+    <string name="playing">Now Playing</string>
+
+    <!-- Now playing Activity -->
+    <string name="now_playing">Now Playing Song</string>
+
+    <!-- all songs activity-->
+    <string name="song">Song</string>
+
+    <!-- Albums activity-->
+    <string name="album">Album</string>
+
+</resources>
