@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     }
     /**
      *
-     * @return 1 if is the answer of question 1 correct 0 otherwise
+     * @return 1 if is the answer of question 2 correct 0 otherwise
      */
     private int question2(){
         CheckBox checkBox1 = (CheckBox) findViewById(R.id.question_2_value_A);
@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      *
-     * @return 1 if is the answer of question 1 correct 0 otherwise
+     * @return 1 if is the answer of question 3 correct 0 otherwise
      */
     private int question3() {
         RadioButton radioButton = (RadioButton) findViewById(R.id.question_3_value_write);
@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      *
-     * @return 1 if is the answer of question 1 correct 0 otherwise
+     * @return 1 if is the answer of question 4 correct 0 otherwise
      */
     private int question4(){
         CheckBox checkBox1 = (CheckBox) findViewById(R.id.question_4_value_100);
