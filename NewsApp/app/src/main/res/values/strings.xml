@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="type">Type here</string>
+    <string name="search">Search</string>
+
+    <string name="title">Story Title:</string>
+
+    <string name="date">Publication Date:</string>
+
+    <!-- Text to display in the list when there are no stories [CHAR LIMIT=NONE] -->
+    <string name="no_stories">No Stories found.</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="title_activity_stories_list">StoriesListActivity</string>
+</resources>

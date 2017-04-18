@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Programming Quiz App</string>
+    <string name="Title">Programming Quiz</string>
+
+    <!-- Question 1-->
+    <!--Question-->
+    <string name="question_1">Enter valid Integer or long value in this box</string>
+    <string name="question_1_answer">Enter Integer Here</string>
+    <!-- Question 2-->
+    <!-- Question 2 header-->
+    <string name="Question_2_header">Question 2:</string>
+    <!--the question-->
+    <string name="question_2">What of the following can be char value</string>
+    <!--Answers-->
+    <string name="question_2_answer_1">A</string>
+    <string name="question_2_answer_2">char</string>
+    <string name="question_2_answer_3">2</string>
+    <string name="question_2_answer_4">45</string>
+
+    <!-- Question 3-->
+    <!-- Question 3 header-->
+    <string name="Question_3_header">Question 3:</string>
+    <!--the question-->
+    <string name="question_3">What of the following is a double</string>
+    <!--Answers-->
+    <string name="question_3_answer_1">203</string>
+    <string name="question_3_answer_2">.002</string>
+    <string name="question_3_answer_3">Twenty one</string>
+
+    <!-- Question 4-->
+    <!-- Question 4 header-->
+    <string name="Question_4_header">Question 4:</string>
+    <!--the question-->
+    <string name="question_4">What of the following can be string</string>
+    <!--Answers-->
+    <string name="question_4_answer_1">String</string>
+    <string name="question_4_answer_2">100</string>
+    <string name="question_4_answer_3">299.01</string>
+    <string name="question_4_answer_4">One Two Three Four Five</string>
+    <!--> submit button text-->
+    <string name="submit">submit</string>
+
+
+</resources>

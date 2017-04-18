@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#4A312A</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Background color for restaurants-->
+    <color name="restaurants">#FD8E09</color>
+
+    <!-- Background color for hotels -->
+    <color name="hotels">#379237</color>
+
+    <!-- Background color for beaches-->
+    <color name="beaches">#8800A0</color>
+
+    <!-- Background color for things to do in toronto -->
+    <color name="things">#16AFCA</color>
+</resources>
