@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:8:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ayyad\.android\build-cache\3699b74a3d7baf8b251f8b2995b5fd8ebecc825a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ayyad\.android\build-cache\710a3e0460a3dccc24b9c927a099c1b173656b3d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ayyad\.android\build-cache\80dbd28f97d399e04230442d031171d2de1d76e1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ayyad\.android\build-cache\cd2154927fe00d92f57cecbb101d95df6e9ec0d5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ayyad\.android\build-cache\d27c2e86f19034479b09b1098b4c9751e7701f8c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ayyad\.android\build-cache\fd1ca17ec93a5e9133863fe5b2c47dd392ca52bb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ayyad\.android\build-cache\7e7c759d75d174bc6ed46aecbbe1298796e4abee\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ayyad\.android\build-cache\1e794db4515c93e933ccd38cb3f017d23241a30a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ayyad\.android\build-cache\1f5563ff4c310cdceb8f2dba7e9ec498ade58296\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ayyad\.android\build-cache\becdfe3b3a8c4b89200ed53a07f008cf03e9bfe3\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.android.booklisting.MainActivity
+ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.android.booklisting.BookListActivity
+ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:22:9-63
+	android:name
+		ADDED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml:22:19-51
+uses-sdk
+INJECTED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ayyad\.android\build-cache\3699b74a3d7baf8b251f8b2995b5fd8ebecc825a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ayyad\.android\build-cache\710a3e0460a3dccc24b9c927a099c1b173656b3d\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ayyad\.android\build-cache\80dbd28f97d399e04230442d031171d2de1d76e1\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ayyad\.android\build-cache\cd2154927fe00d92f57cecbb101d95df6e9ec0d5\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ayyad\.android\build-cache\d27c2e86f19034479b09b1098b4c9751e7701f8c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ayyad\.android\build-cache\fd1ca17ec93a5e9133863fe5b2c47dd392ca52bb\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ayyad\.android\build-cache\7e7c759d75d174bc6ed46aecbbe1298796e4abee\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ayyad\.android\build-cache\1e794db4515c93e933ccd38cb3f017d23241a30a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ayyad\.android\build-cache\1f5563ff4c310cdceb8f2dba7e9ec498ade58296\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ayyad\.android\build-cache\becdfe3b3a8c4b89200ed53a07f008cf03e9bfe3\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ayyad\.android\build-cache\3699b74a3d7baf8b251f8b2995b5fd8ebecc825a\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ayyad\Desktop\android\androidBasicsNanodegree\BookListing\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ayyad\.android\build-cache\3699b74a3d7baf8b251f8b2995b5fd8ebecc825a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ayyad\.android\build-cache\710a3e0460a3dccc24b9c927a099c1b173656b3d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ayyad\.android\build-cache\80dbd28f97d399e04230442d031171d2de1d76e1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ayyad\.android\build-cache\cd2154927fe00d92f57cecbb101d95df6e9ec0d5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ayyad\.android\build-cache\d27c2e86f19034479b09b1098b4c9751e7701f8c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ayyad\.android\build-cache\fd1ca17ec93a5e9133863fe5b2c47dd392ca52bb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ayyad\.android\build-cache\7e7c759d75d174bc6ed46aecbbe1298796e4abee\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ayyad\.android\build-cache\1e794db4515c93e933ccd38cb3f017d23241a30a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ayyad\.android\build-cache\1f5563ff4c310cdceb8f2dba7e9ec498ade58296\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ayyad\.android\build-cache\3699b74a3d7baf8b251f8b2995b5fd8ebecc825a\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ayyad\.android\build-cache\3699b74a3d7baf8b251f8b2995b5fd8ebecc825a\output\AndroidManifest.xml:26:9-47
