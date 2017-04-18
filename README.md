@@ -44,4 +44,8 @@ The app implements a simple search engine for books by using Google Books API.
 ## Project 10: [Inventory App](https://github.com/Ayyad-Shenouda/Android-basics-nanodegree/tree/master/InventoryApp)
 ### Create an app to track the inventory of a retail store, including current stock and supplier information.
 
-<img src="nd-grad-cert.pdf" alt="Android basics nanodegree certificate"  width="420" height="420">
+<object data="nd-grad-cert.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="nd-grad-cert.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="nd-grad-cert.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
