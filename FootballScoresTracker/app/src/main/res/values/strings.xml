@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Football Scores Tracker</string>
-    <string name="teamA">AlAhly</string>
-    <string name="teamB">Zamalek</string>
-    <string name="score">0</string>
-    <string name="foul">foul</string>
-    <string name="goal">goal</string>
-    <string name="reset">reset</string>
-</resources>

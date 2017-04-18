@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Habit Tracker</string>
-    <string name="title_activity_main2">Main2Activity</string>
-    <string name="time_repeated">How many time you repeat it in the week:</string>
-    <string name="habit_name">Habit Name:</string>
-    <string name="add_dummy_data">add dummy data</string>
-    <string name="add_data">Add data</string>
-</resources>

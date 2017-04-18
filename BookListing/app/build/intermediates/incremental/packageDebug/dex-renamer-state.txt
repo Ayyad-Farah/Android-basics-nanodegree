@@ -1,7 +1,0 @@
-#Sun Apr 09 17:08:03 EET 2017
-base.0=C\:\\Users\\ayyad\\Desktop\\android\\androidBasicsNanodegree\\BookListing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6955574d5c60a235379f22a0ad9ea68b636b6d28
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\ayyad\\Desktop\\android\\androidBasicsNanodegree\\BookListing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_66c61fdf39ed46d434b5a4bd10cbfc9d6856d2a1\\classes.dex
-base.1=C\:\\Users\\ayyad\\Desktop\\android\\androidBasicsNanodegree\\BookListing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_66c61fdf39ed46d434b5a4bd10cbfc9d6856d2a1
-file.0=C\:\\Users\\ayyad\\Desktop\\android\\androidBasicsNanodegree\\BookListing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6955574d5c60a235379f22a0ad9ea68b636b6d28\\classes.dex

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <dimen name="story_item_padding">16dp</dimen>
-    <dimen name="text_size">18sp</dimen>
-    <dimen name="element">8dp</dimen>
-</resources>
