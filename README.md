@@ -6,16 +6,40 @@ Android Basics courses on Udacity
 ### Design and implement a simple app that displays information about a small business, place.
 The app displays information about my favorite club.
 
-<img src="http://i.imgur.com/zmXQJuS.png" width="270"> 
-
 ## Project 2: [Score Keeper(Football Scores Tracker)](https://github.com/Ayyad-Shenouda/Android-basics-nanodegree/tree/master/FootballScoresTracker)
 ### Implement an app to track scores between two teams within a game.
 The app tracks goals and fouls for Arabic classico AlAhly vs Zamalek football match (teams from Egypt). 
-
-<img src="http://i.imgur.com/B1JIZGl.gif" width="270">
 
 ## Project 3: [Quiz App(Programming Quiz app)](https://github.com/Ayyad-Shenouda/Android-basics-nanodegree/tree/master/ProgrammingQuizApp)
 ### Design and implement a short quiz app about some topic you are familiar with.
 The app implements a 4-question simple programming quiz. 
 
-<img src="http://i.imgur.com/jVUaElH.gif" width="270">
+## Project 4: [Tarab(Musical Structure App)](https://github.com/Ayyad-Shenouda/Android-basics-nanodegree/tree/master/Tarab)
+### Architect the user experience and technical design of an app to play music for a user.
+The app implements the structure of user's personal library.
+
+## Project 5: [Report Card](https://github.com/akueisara/android-basics-nanodegree-by-google/tree/master/ReportCard)
+### Create a custom Java class to model the information in a student report card.
+The goal is to design and create the structure of a ReportCard Java Class which allows a school to store a student’s grades for a particular year.
+
+
+## Project 6: [Tour Guide App](https://github.com/akueisara/android-basics-nanodegree-by-google/tree/master/TourGuide)
+### Create an app to guide a user around a city or location of your choice!
+The app implements a simple list of Taiwan attractions.
+
+
+## Project 7: [Book Listing App](https://github.com/akueisara/android-basics-nanodegree-by-google/tree/master/BookListingApp)
+### Create an app to list the published books on a given topic using the Google Books API.
+The app implements a simple search engine for books by using Google Books API.
+
+
+## Project 8: [News App](https://github.com/akueisara/android-basics-nanodegree-by-google/tree/master/NewsApp)
+### Create an app to display recent news stories on a topic of your choice using a web API.
+
+
+## Project 9: [Habit Tracker App](https://github.com/akueisara/android-basics-nanodegree-by-google/tree/master/HabitTracker)
+### Create an app to track your habits.
+
+
+## Project 10: [Inventory App](https://github.com/akueisara/android-basics-nanodegree-by-google/tree/master/InventoryApp)
+### Create an app to track the inventory of a retail store, including current stock and supplier information.

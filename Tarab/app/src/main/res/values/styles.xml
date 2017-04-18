@@ -8,7 +8,7 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <!-- Main activity and Now Playing activity TextViews-->
+    <!-- Main activity TextViews-->
     <style name="textView">
         <item name="android:layout_height">0dp</item>
         <item name="android:layout_width">match_parent</item>
@@ -27,5 +27,15 @@
         <item name="android:textSize">24sp</item>
         <item name="android:layout_marginBottom">@dimen/activity_vertical_margin</item>
         <item name="android:background">@android:color/holo_blue_light</item>
+    </style>
+
+    <!-- lables style -->
+    <style name="label">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_marginBottom">@dimen/activity_vertical_margin</item>
+        <item name="android:background">@color/colorPrimaryDark</item>
     </style>
 </resources>

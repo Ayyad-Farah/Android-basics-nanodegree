@@ -12,6 +12,9 @@
     android:orientation="vertical">
 
     <TextView
+        style="@style/label"
+        android:text="@string/main" />
+    <TextView
         style="@style/textView"
         android:text="@string/category_song"
         android:background="@android:color/holo_blue_light"

@@ -9,6 +9,10 @@
     android:orientation="vertical">
 
     <TextView
+        style="@style/label"
+        android:text="@string/albums"/>
+
+    <TextView
         style="@style/element"
         android:text="@string/album"
         android:id="@+id/album1"/>

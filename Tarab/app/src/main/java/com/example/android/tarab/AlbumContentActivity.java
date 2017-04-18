@@ -6,8 +6,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-import static com.example.android.tarab.R.id.song3;
-
 public class AlbumContentActivity extends AppCompatActivity {
 
     @Override
