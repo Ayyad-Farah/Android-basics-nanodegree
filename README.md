@@ -18,28 +18,30 @@ The app implements a 4-question simple programming quiz.
 ### Architect the user experience and technical design of an app to play music for a user.
 The app implements the structure of user's personal library.
 
-## Project 5: [Report Card](https://github.com/akueisara/android-basics-nanodegree-by-google/tree/master/ReportCard)
+## Project 5: [Report Card](https://github.com/Ayyad-Shenouda/Android-basics-nanodegree/tree/master/ReportCard)
 ### Create a custom Java class to model the information in a student report card.
 The goal is to design and create the structure of a ReportCard Java Class which allows a school to store a student’s grades for a particular year.
 
 
-## Project 6: [Tour Guide App](https://github.com/akueisara/android-basics-nanodegree-by-google/tree/master/TourGuide)
+## Project 6: [Come To Toronto(Tour Guide App)](https://github.com/Ayyad-Shenouda/Android-basics-nanodegree/tree/master/ComeToToronto)
 ### Create an app to guide a user around a city or location of your choice!
-The app implements a simple list of Taiwan attractions.
+The app implements a simple list of Toronto attractions.
 
 
-## Project 7: [Book Listing App](https://github.com/akueisara/android-basics-nanodegree-by-google/tree/master/BookListingApp)
+## Project 7: [Book Listing App](https://github.com/Ayyad-Shenouda/Android-basics-nanodegree/tree/master/BookListing)
 ### Create an app to list the published books on a given topic using the Google Books API.
 The app implements a simple search engine for books by using Google Books API.
 
 
-## Project 8: [News App](https://github.com/akueisara/android-basics-nanodegree-by-google/tree/master/NewsApp)
+## Project 8: [News App](https://github.com/Ayyad-Shenouda/Android-basics-nanodegree/tree/master/NewsApp)
 ### Create an app to display recent news stories on a topic of your choice using a web API.
 
 
-## Project 9: [Habit Tracker App](https://github.com/akueisara/android-basics-nanodegree-by-google/tree/master/HabitTracker)
+## Project 9: [Habit Tracker App](https://github.com/Ayyad-Shenouda/Android-basics-nanodegree/tree/master/HabitTracker)
 ### Create an app to track your habits.
 
 
-## Project 10: [Inventory App](https://github.com/akueisara/android-basics-nanodegree-by-google/tree/master/InventoryApp)
+## Project 10: [Inventory App](https://github.com/Ayyad-Shenouda/Android-basics-nanodegree/tree/master/InventoryApp)
 ### Create an app to track the inventory of a retail store, including current stock and supplier information.
+
+<img src="nd-grad-cert.pdf" alt="Android basics nanodegree certificate"  width="4200" height="4200">
