@@ -1,5 +1,5 @@
 # Android Basics by Google
-Android Basics courses on Udacity
+Android Basics courses on Udacity from 12/2016
 
 
 ## Project 1: [Build a Single Screen App(AlAhly Club)](https://github.com/Ayyad-Shenouda/Android-basics-nanodegree/tree/master/AlAhlyClub)
